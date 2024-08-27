@@ -12,7 +12,7 @@ const Hero = () => {
                         <p className="my-2 max-w-xl py-6 font-light tracking-tighter">{HERO_CONTENT}</p>
                     </div>
                 </div>
-                <div className="w-full lg:w-1/2 lg:p-8">
+                <div className="w-full lg:w-1/2 lg:p-20">
                     <div className="flex justify-center">
                         <img
                             className="border-r-emerald-50 rounded-lg shadow-lg filter brightness-75"

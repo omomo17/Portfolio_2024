@@ -1,4 +1,4 @@
-import aboutImg from '../assets/about.jpg';
+import aboutImg from '../assets/myPicture.png';
 import { ABOUT_TEXT } from '../constants/index';
 
 const About = () => {
