@@ -4,6 +4,7 @@ import NavBar from './components/NavBar';
 import About from './components/About';
 import Technologies from './components/Technologies';
 import Experience from './components/Experience';
+import Projects from './components/Projects';
 
 import './index.css';
 
@@ -21,6 +22,7 @@ const App = () => {
         <About />
         <Technologies />
         <Experience />
+        <Projects />
       </div>
       </div>
   );
