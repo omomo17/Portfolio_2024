@@ -63,7 +63,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Sagamihara, Kanaagawa, Japan",
-  phoneNo: "+81 90 8433 6612",
+  address: "Sagamihara, Kanagawa, Japan",
+  phoneNo: "",
   email: "omomo1017@gmail.com",
 };
