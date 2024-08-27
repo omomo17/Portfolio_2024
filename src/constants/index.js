@@ -1,7 +1,6 @@
-import project1 from "../assets/projects/project-1.jpg";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project_padim_Cpp_Cs from "../assets/projects/padim_on_Cpp_Cs.png";
+import project_3D_modeling from "../assets/projects/camera_and_LED_3Dmodeling.png";
+import project_portolio from "../assets/projects/portfolio.png";
 
 // updated
 export const HERO_CONTENT = `I am a dedicated developer with a strong background in image processing for inspection devices. Over the years, I have developed expertise in 3D modeling, electrical control systems, and machine learning, which allow me to create sophisticated and precise solutions. My primary programming languages are C# and Python, and I aim to leverage my technical skills to deliver cutting-edge innovations that enhance operational efficiency and drive technological advancement.`;
@@ -41,32 +40,25 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
-    image: project1,
+    title: "PaDiM on C++ and C#",
+    image: project_padim_Cpp_Cs,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "A PaDiM implementation using C#, C++, and ONNX Runtime, enabling training and inference WITHOUT Python dependency.",
+    technologies: ["C#", "C++", "ONNX"],
   },
   {
-    title: "Task Management App",
-    image: project2,
+    title: "Machine 3D Modeling",
+    image: project_3D_modeling,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "Conducted 3D modeling of development machines using Blender, with motion verification through partial physical simulations.",
+    technologies: ["Blender", "Python"],
   },
   {
-    title: "Portfolio Website",
-    image: project3,
+    title: "Portfolio Profile",
+    image: project_portolio,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-  },
-  {
-    title: "Blogging Platform",
-    image: project4,
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "Created a portfolio using React to gain expertise in modern UI design and web application development.",
+    technologies: ["HTML", "Tailwind CSS", "Javascript", "React", "Vite"],
   },
 ];
 
