@@ -1,8 +1,18 @@
 Application Reference:
 https://www.youtube.com/watch?v=_63mEm3AMSY
 
+・Fonts
+https://fonts.google.com/
+
 ・Icons
 https://react-icons.github.io/react-icons/search/#q=python
 
 ・Background Design
 https://bg.ibelick.com/
+
+・Animation
+https://www.framer.com/motion/
+
+Other References:
+VS Code拡張
+https://qiita.com/newt0/items/b7810fb38c339ec5e4a7
